@@ -150,9 +150,9 @@ This is a **living document**, feel free to contribute! ₊˚⊹♡
 ### Git 
 - **[Git book](https://git-scm.com/book/en/v2)**: The official Git guide covering everything from basics to advanced topics.
 
-- **[Getting started with GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)** — A beginner-friendly introduction to GitHub's core features.
+- **[Getting started with GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)**: A beginner-friendly introduction to GitHub's core features.
 
-- **[Learn GitHub with GitHub](https://learn.github.com/skills)** — Hands-on interactive courses to practice GitHub skills directly in your browser.
+- **[Learn GitHub with GitHub](https://learn.github.com/skills)**: Hands-on interactive courses to practice GitHub skills directly in your browser.
 
 ### Markdown
 - **[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)**: A quick reference for the most common Markdown formatting elements.
