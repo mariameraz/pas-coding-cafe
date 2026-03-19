@@ -11,6 +11,15 @@ This is a **living document**, feel free to contribute! ₊˚⊹♡
 - Tool type: Library / Software / Tutorial / Book / Pipeline / Web tool
 - Language/environment: R / Python / CLI / GUI
 
+<br>
+
+> Learn how to contribute to this project using:
+> - [Git](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+> - [GitHub Desktop](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
+> 
+
+<br>
+
 ---
 
 ## 🌱 Plant Breeding & Genomic Selection
@@ -129,14 +138,26 @@ This is a **living document**, feel free to contribute! ₊˚⊹♡
 
 ---
 
-## 📚 Learning & References
+## 📚 Learning 
 
-- **[R for Data Science](https://r4ds.hadley.nz)** (2nd ed.) — Wickham, Çetinkaya-Rundel & Grolemund (2023)
+### R 
+- **[R for Data Science](https://r4ds.hadley.nz)** (2nd ed.): Wickham, Çetinkaya-Rundel & Grolemund (2023): The go-to book for learning data import, visualization, and analysis using the tidyverse.
 
-- **[The Tidyverse Style Guide](https://style.tidyverse.org)** — Wickham
+- **[The Tidyverse Style Guide](https://style.tidyverse.org)**: Best practices for writing clean and consistent R code.
 
-- **[Happy Git with R](https://happygitwithr.com)** — Bryan et al.
+- **[Happy Git with R](https://happygitwithr.com)**: A practical guide to integrating Git and GitHub into your R workflow.
 
-- **[Bioinformatics Handbook](https://eriqande.github.io/eca-bioinf-handbook/)** — Anderson et al.: Comprehensive open handbook covering Unix, reproducible workflows, sequence alignment, variant calling, and population genomics — a great all-in-one reference for bioinformatics in R and the command line.
+### Git 
+- **[Git book](https://git-scm.com/book/en/v2)**: The official Git guide covering everything from basics to advanced topics.
+
+- **[Getting started with GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)** — A beginner-friendly introduction to GitHub's core features.
+
+- **[Learn GitHub with GitHub](https://learn.github.com/skills)** — Hands-on interactive courses to practice GitHub skills directly in your browser.
+
+### Markdown
+- **[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)**: A quick reference for the most common Markdown formatting elements.
+
+### Miscellaneous
+- **[Bioinformatics Handbook](https://eriqande.github.io/eca-bioinf-handbook/)**: (Anderson, E., 2024) Comprehensive open handbook covering Unix, reproducible workflows, sequence alignment, variant calling, and population genomics (good reference for bioinformatics in R and the command line). 
 
 
