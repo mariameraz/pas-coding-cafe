@@ -117,19 +117,13 @@ This is a **living document**, feel free to contribute! ₊˚⊹♡
 
 - **[emmeans](https://cran.r-project.org/package=emmeans)** (R): Computes estimated marginal means from fitted models with pairwise comparisons, contrasts, and multiple testing corrections; compatible with lme4, lm, glm, and many others (Lenth, 2024).
 
-- **[SpATS](https://cran.r-project.org/package=SpATS)** (R): Fits spatial trend models in field trials using two-dimensional P-splines to correct for soil variability without requiring a predefined experimental structure (Rodríguez-Álvarez et al., 2018, *JABES*).
-
-- **[statsmodels](https://www.statsmodels.org)** (Python): Statistical modeling in Python — OLS/GLS, GLMs, time series, and hypothesis tests — with R-style formula interfaces and detailed model summaries (Seabold & Perktold, 2010, *Proceedings of SciPy*).
 
 ---
 
 ## 🔁 Reproducibility & Workflow Management
 
 - **[Quarto](https://quarto.org)**: Next-generation scientific publishing system unifying R Markdown and Jupyter for reproducible documents, presentations, and websites across R, Python, Julia, and Observable.
-
-- **[Snakemake](https://snakemake.readthedocs.io)**: Python-based workflow manager for bioinformatics pipelines with explicit input/output rules, automatic parallelization, and HPC/cloud support (Mölder et al., 2021, *F1000Research*).
-
-- **[renv](https://rstudio.github.io/renv/)** (R): Per-project R package libraries with lockfiles for reproducibility across machines and time (Ushey & Wickham, 2023).
+2023).
 
 - **[conda / mamba](https://docs.conda.io)**: Environment and package managers for Python, R, and CLI tools; `mamba` offers significantly faster dependency solving and is recommended for complex bioinformatics environments.
 
