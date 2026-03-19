@@ -25,4 +25,4 @@ Casual talks + hands-on sessions for the PAS (Plant & Agroecosystem Sciences) co
 
 ## 1. Introduction to GitHub (03/19/2026)
 - Presenter: Maria Alejandra Torres Meraz
-- [Slides](sessions/)
+- [Slides](sessions/session_1/Coding-Cafe-Session1.pdf)
