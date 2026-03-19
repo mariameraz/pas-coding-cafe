@@ -1,4 +1,4 @@
-# PAS Coding & Data Science Café (Spring 2026)
+# PAS Bioinformatics & Coding Café (Spring 2026)
 
 Casual talks + hands-on sessions for the PAS (Plant & Agroecosystem Sciences) community at UW, focused on computing skills, coding practices, data analysis, and practical bioinformatics tools.
 
@@ -18,3 +18,11 @@ Casual talks + hands-on sessions for the PAS (Plant & Agroecosystem Sciences) co
 - `examples/` — small example projects and reproducible workflows
 - `resoruces/` - libraries, tools, and learrning resources
 - `CODE_OF_CONDUCT.md` — community guidelines
+
+---
+
+# Sessions:
+
+## 1. Introduction to GitHub (03/19/2026)
+- Presenter: Maria Alejandra Torres Meraz
+- [Slides](sessions/)
