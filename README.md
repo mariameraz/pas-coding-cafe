@@ -24,5 +24,8 @@ Casual talks + hands-on sessions for the PAS (Plant & Agroecosystem Sciences) co
 # Sessions:
 
 ## 1. Introduction to GitHub (03/19/2026)
-- Presenter: Maria Alejandra Torres Meraz
+- Speaker: Maria Alejandra Torres Meraz
 - [Slides](sessions/session_1/Coding-Cafe-Session1.pdf)
+
+## 2. Automating Cell Measurements in Fruit Cytology: A Practical Workflow Using Cellpose and Python (04/16/2025)
+- Speakers: Héctor López Moreno, Sydney Berkeley and Sheila Waffle
