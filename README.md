@@ -24,8 +24,18 @@ Casual talks + hands-on sessions for the PAS (Plant & Agroecosystem Sciences) co
 # Sessions:
 
 ## 1. Introduction to GitHub (03/19/2026)
-- Speaker: Maria Alejandra Torres Meraz
+Speaker: 
+- Maria Alejandra Torres Meraz – PhD student, UW-Madison
+
+Material:
 - [Slides](sessions/session_1/Coding-Cafe-Session1.pdf)
 
 ## 2. Automating Cell Measurements in Fruit Cytology: A Practical Workflow Using Cellpose and Python (04/16/2025)
-- Speakers: Héctor López Moreno, Sydney Berkeley and Sheila Waffle
+Speakers: 
+  - Héctor López Moreno – PhD student, UW-Madison
+  - Sydney Berkeley – Research technician, UW-Madison
+  - Sheila Waffle – Research technician, UW-Madison
+
+## 3. Experience with Claude Code: Pros, Cons, and Caveats (04/30/2026)
+Speaker: 
+- Agustín Chasco – PhD student, UW-Madison
