@@ -39,3 +39,6 @@ Speakers:
 ## 3. Experience with Claude Code: Pros, Cons, and Caveats (04/30/2026)
 Speaker: 
 - Agustín Chasco – PhD student, UW-Madison
+
+Material:
+- [Slides](sessions/session_3/Claude_Code_Cowork_presentation.pdf)
