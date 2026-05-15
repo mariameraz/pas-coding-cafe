@@ -36,6 +36,9 @@ Speakers:
   - Sydney Berkeley – Research technician, UW-Madison
   - Sheila Waffle – Research technician, UW-Madison
 
+Material
+- [Slides](sessions/session_2)
+
 ## 3. Experience with Claude Code: Pros, Cons, and Caveats (04/30/2026)
 Speaker: 
 - Agustín Chasco – PhD student, UW-Madison
